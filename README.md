@@ -1,1 +1,27 @@
-This is a fully functional Tic Tac Toe game built using pure HTML, CSS, and JavaScript. It features a clean, modern UI with a colorful gradient background and smooth hover/click effects. The game detects win conditions dynamically, highlights the winning line, and displays the winner. Players can start a new game at any time using the “New Game” button. The entire project is responsive and visually engaging.
+# 🎮 Tic Tac Toe Game
+
+A simple and interactive **Tic Tac Toe** game built using **HTML**, **CSS**, and **JavaScript**.
+
+![Tic Tac Toe Screenshot](./tick-tack-toe.png)
+
+## 🛠 Features
+
+- ✅ Two-player gameplay
+- 🎨 Modern and responsive UI
+- ✨ Colorful gradient background with glassmorphism effect
+- 🧠 Win detection with visual highlight
+- 🔁 "New Game" button to reset the board
+- 📱 Mobile-friendly and lightweight
+
+## 📂 Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/tic-tac-toe.git
